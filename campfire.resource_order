@@ -1,9 +1,18 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Objects","order":7,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":5,"path":"folders/Sprites.yy",},
+  ],
   "ResourceOrderSettings":[
-    {"name":"obj_controller","order":4,"path":"objects/obj_controller/obj_controller.yy",},
-    {"name":"rm_game","order":2,"path":"rooms/rm_game/rm_game.yy",},
-    {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},
-    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"obj_controller","order":3,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"rm_game","order":1,"path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_gameover","order":2,"path":"rooms/rm_gameover/rm_gameover.yy",},
+    {"name":"rm_menu","order":6,"path":"rooms/rm_menu/rm_menu.yy",},
+    {"name":"sAncientRuneArtifact","order":4,"path":"sprites/sAncientRuneArtifact/sAncientRuneArtifact.yy",},
+    {"name":"sAncientRuneFloorTile","order":6,"path":"sprites/sAncientRuneFloorTile/sAncientRuneFloorTile.yy",},
+    {"name":"sHostileCreatureAbysallSquid","order":3,"path":"sprites/sHostileCreatureAbysallSquid/sHostileCreatureAbysallSquid.yy",},
+    {"name":"sHostileCreatureAnglerFish","order":1,"path":"sprites/sHostileCreatureAnglerFish/sHostileCreatureAnglerFish.yy",},
+    {"name":"sOxygenPickupTank","order":2,"path":"sprites/sOxygenPickupTank/sOxygenPickupTank.yy",},
+    {"name":"sRuinsStructureTile","order":5,"path":"sprites/sRuinsStructureTile/sRuinsStructureTile.yy",},
   ],
 }
