@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_controller","order":4,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"rm_game","order":2,"path":"rooms/rm_game/rm_game.yy",},
+    {"name":"rm_gameover","order":3,"path":"rooms/rm_gameover/rm_gameover.yy",},
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
+  ],
+}
